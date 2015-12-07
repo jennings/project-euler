@@ -60,6 +60,6 @@ This idea is shamefully stolen from [eevee][eevee].
 * Smalltalk
 * Stata
 * Swift
-* Tcl
+* ~~Tcl~~ (#2)
 * Visual Basic
 * XSLT
