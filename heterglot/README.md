@@ -59,7 +59,7 @@ This idea is shamefully stolen from [eevee][eevee].
 * Simula
 * Smalltalk
 * Stata
-* Swift
+* ~~Swift~~ (#3)
 * ~~Tcl~~ (#2)
 * Visual Basic
 * XSLT
