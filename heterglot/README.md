@@ -3,14 +3,27 @@
 I'm solving the Project Euler problems with a different language for each
 problem. Once a language is used, it's off the table for later problems.
 
-The challenge is getting a language's toolchain working enough to run/compile
-one program.
+The most challenging bit is probably going to be getting each language's
+toolchain working enough to run/compile one program.
 
 This idea is shamefully stolen from [eevee][eevee].
 
 [eevee]: http://eev.ee/projects/#heteroglot
 
+# Executing a solution
+
+I'm definitely going to forget how to run/compile these languages. So
+`make` should be set up to execute each solution:
+
+    $ cd 001_javascript
+    $ make
+    node 001.js
+    The total is: 233168
+    $
+
 # Languages
+
+These are the languages I might be interested in trying.
 
 * APL
 * AppleScript
@@ -61,5 +74,6 @@ This idea is shamefully stolen from [eevee][eevee].
 * Stata
 * ~~Swift~~ (#3)
 * ~~Tcl~~ (#2)
+* Terra
 * Visual Basic
 * XSLT
