@@ -43,7 +43,7 @@ These are the languages I might be interested in trying.
 * Delphi
 * Eiffel
 * Elixir
-* Erlang
+* ~~Erlang~~ (#4)
 * F#
 * Go
 * Haskell
